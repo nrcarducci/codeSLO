@@ -1,0 +1,32 @@
+table
+{
+    width:40%;
+    margin:auto;
+    padding: 0px; 
+    border:4px solid blue;
+    font-size:20px;
+}
+
+th
+{
+    border:1px solid blue;
+    padding:5px;
+}
+.table-head
+{
+    color:white;
+    background-color:maroon;
+    font-weight:bold;
+}
+
+.a
+{
+    color:white;
+    background-color: red;
+}
+
+.b
+{
+    color: red;
+    background-color: white;
+}

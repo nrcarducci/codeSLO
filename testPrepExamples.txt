@@ -1,0 +1,18 @@
+//Fullstack's easy-level practice problems:
+
+//1. Define a function greeting that accepts an optional string argument called name. greeting should return a personalized string if the name is present. Ex. "Hello Sarah!" or "Hello!"
+
+//2. Define a function doYouPlayTheTheremin that accepts a string as an argument. doYouPlayTheTheremin should return true if the inputted string starts with the letters s or S. Otherwise, doYouPlayTheTheremin should return false.
+
+//3. Define a function lastCharacter that accepts two strings as arguments. lastCharacter should return true if both strings end with the same character. Otherwise, lastCharacter should return false.
+
+//4. Write a function maxOfThree that accepts three number arguments. maxOfThree should return largest number of the three.
+
+/*5. Write a function everyWhichWay that accepts three number arguments. everyWhichWay should:
+return 'sum' if the sum of the first two numbers equals the third
+return 'difference' if the first number minus the second equals the third
+return 'product' if the product of the first two numbers equals the third
+return 'fraction' if the first number divided by the second equals the third
+return null if none of the above are true
+
+*/

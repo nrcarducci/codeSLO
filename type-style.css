@@ -1,0 +1,82 @@
+header
+{
+    text-align: center;
+    font-weight: bold;
+    margin:0;
+    padding: 1px;
+    border:0;
+    height: 75%;
+    width: 100%;
+    background-color:lightblue;
+}
+
+h1
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 144px;
+    color:red
+
+}
+h2
+{
+    padding:24px;
+    font-style: italic;
+    font-family: 'EB Garamond', serif;
+    font-size:48px;
+    color:white;
+}
+
+li
+{
+   
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    color:black;
+
+    margin:0;
+    padding:0px;
+    border:0;
+    height: 100%;
+    width: 60%;
+   
+}
+
+@media(max-width: 769px) 
+{
+    header{
+        width:100%;
+    }
+
+    h1{
+        font-size:72px;
+    }
+
+    h2{
+        font: size 24px;
+    }
+
+    li
+    {
+        font: size 12px;
+    }
+}
+
+@media(max-width: 480px)
+{
+    header{
+        width:100%;
+    }
+
+    h1{
+        font-size:72px;
+    }
+
+    h2{
+        font: size 24px;
+    }
+
+    li
+    {
+        font: size 12px;
+    }
+}
